@@ -1,0 +1,6 @@
+{
+  "appId": "com.rhf777.notif",
+  "appName": "RHF Notif",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
